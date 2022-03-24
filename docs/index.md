@@ -2,13 +2,15 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Aoran (Poppy) Huang
+
+I seek opportunities to make an impact through data analytics using R, Python and SQL languages, as well as using tools such as Power BI, Excel, Tableau to present data. I am a proactive and self-motivated team leader, in another hand a teachable team player with the ability to work in a fast-pace environment.
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">poppyhuange@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/aoran-poppy-huang-663284157/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 

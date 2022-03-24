@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Aoran Huang's Resume
 ---
 # Aoran (Poppy) Huang
 
@@ -18,18 +18,24 @@ I seek opportunities to make an impact through data analytics using R, Python an
 
 ## Education
 
-`2025-2027`
+`2018-2019`
 __LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
+- Social Media Marketing with 3.95 GPA
 
-`Expected 2029`
+`Expected 2022 July`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Business analytics major with 3.95 GPA
 
 
 ## Related Experience
+2019 January – 2022 January
+Family Search (Data Project Team Lead)					 												Salt Lake City
+•	Trained and lead 6 data analysists in project quality team
+•	Pioneer of the project which total analyzed more than 1,000,000 data entries
+•	Involved in creating internal analysis tool for double efficiency work speed
+•	Communicated with 6 different vendors about the analysis report for improvement
 
 ### Internships
 

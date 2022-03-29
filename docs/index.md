@@ -52,38 +52,21 @@ __Family History Library__, SLC, UT
 
 ### Data Science Lead
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`January 2021 - April 2021`
+__Research__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Used R to built predictive algorithms for lifetime for the lightbob.
+- Established standardized SQL calls and connections for PowerBI dashboard.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2016-2017`
+__Service Missionary__, Leeds England
+-	Maintained an 80+ hour work week for 1.5 years, teaching Christian principles to hundreds of families and individuals
+-	Supervised and frequently trained other young adults serving as church volunteers 
+-	Learned valuable skills such as self-motivation, leadership and discipline
 
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 

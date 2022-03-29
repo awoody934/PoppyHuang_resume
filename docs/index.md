@@ -44,10 +44,8 @@ __Family History Library__, SLC, UT
 
 -	Increased patron traffic from 200 per month to over 2000 per month
 -	Observed 2000 individuals for the usability test
--	Cleared and analyzed the raw data, draw insights from it which improved the whole system
--	Increased patron traffic from 200 per month to over 2000 per month
--	Observed 2000 individuals for the usability test
--	Cleared and analyzed the raw data, draw insights from it which improved the whole system
+-	Cleared and analyzed the raw data, drew insights from it which improved the whole system
+
 
 
 ### Data Science Lead
@@ -55,7 +53,7 @@ __Family History Library__, SLC, UT
 `January 2021 - April 2021`
 __Research__, Consultant
 
-- Used R to built predictive algorithms for lifetime for the lightbob.
+- Used R to build predictive algorithms to predict the lifetime of a lightbulb.
 - Established standardized SQL calls and connections for PowerBI dashboard.
 
 

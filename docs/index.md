@@ -30,8 +30,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 ## Related Experience
-2019 January – 2022 January
-Family Search (Data Project Team Lead)					 												Salt Lake City
+`January Search1`
+__Family Search__, SLC, UT					 												Salt Lake City
 •	Trained and lead 6 data analysists in project quality team
 •	Pioneer of the project which total analyzed more than 1,000,000 data entries
 •	Involved in creating internal analysis tool for double efficiency work speed
@@ -40,11 +40,15 @@ Family Search (Data Project Team Lead)					 												Salt Lake City
 ### Internships
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Family History Library__, SLC, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+•	Increased patron traffic from 200 per month to over 2000 per month
+•	Observed 2000 individuals for the usability test
+•	Cleared and analyzed the raw data, draw insights from it which improved the whole system
+•	Increased patron traffic from 200 per month to over 2000 per month
+•	Observed 2000 individuals for the usability test
+•	Cleared and analyzed the raw data, draw insights from it which improved the whole system
+
 
 ### Data Science Lead
 
